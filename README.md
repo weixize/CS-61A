@@ -59,15 +59,15 @@
     - Tips: If you cannot open the `cats_gui.py` web browser, you should change `DEFAULT_SERVER = "https://cats.cs61a.org"` to `DEFAULT_SERVER = None`, then run the command `python3 cats_gui.py` in your terminal. A new tab will open in your browser at `localhost:31415`.
     - 提示：如果你无法打开 `cats_gui.py` 的网页浏览器，你应该将 `DEFAULT_SERVER = "https://cats.cs61a.org"` 改为 `DEFAULT_SERVER = None`，然后在终端中运行命令 `python3 cats_gui.py`。浏览器将会在 `localhost:31415` 打开一个新标签页。
     - [Website](https://insideempire.github.io/CS61A-Website-Archive/proj/cats/index.html)
-    - [Solution](Projects/cats/cats.py)
+    - [Solution](projects/cats/cats.py)
 
   - Project 3: Ants Vs. SomeBees
       - [Website](https://insideempire.github.io/CS61A-Website-Archive/proj/ants/index.html#)
-      - [Solution](Projects/ants/ants.py)
+      - [Solution](projects/ants/ants.py)
    
   - Project 4: Scheme Interpreter
       - [Website](https://insideempire.github.io/CS61A-Website-Archive/proj/scheme.html#)
-      - [Solution](Projects/scheme/)
+      - [Solution](projects/scheme/)
 
 ## 友链 Friend Links:
 
