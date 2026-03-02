@@ -27,7 +27,7 @@
  
   - Lab 11 - [Website](https://insideempire.github.io/CS61A-Website-Archive/lab/lab11/index.html) - [Solution](https://insideempire.github.io/CS61A-Website-Archive/lab/sol-lab11/index.html)
  
-  - Lab 12 - [Website](https://insideempire.github.io/CS61A-Website-Archive/lab/lab12/index.html) - [Solution](Lab/lab12/lab12.sql)
+  - Lab 12 - [Website](https://insideempire.github.io/CS61A-Website-Archive/lab/lab12/index.html) - [Solution](lab/lab12/lab12.sql)
 
 - HW
   - HW 1 - [Website](https://insideempire.github.io/CS61A-Website-Archive/hw/hw01/index.html) - [Solution](https://insideempire.github.io/CS61A-Website-Archive/hw/sol-hw01/index.html)
@@ -46,9 +46,9 @@
  
   - HW 8 - [Website](https://insideempire.github.io/CS61A-Website-Archive/hw/hw08/index.html) - [Solution](https://insideempire.github.io/CS61A-Website-Archive/hw/sol-hw08/index.html)
  
-  - HW 9 - [Website](https://insideempire.github.io/CS61A-Website-Archive/hw/hw09/index.html) - [Solution](HW/hw09/hw09.scm)
+  - HW 9 - [Website](https://insideempire.github.io/CS61A-Website-Archive/hw/hw09/index.html) - [Solution](hw/hw09/hw09.scm)
  
-  - HW 10 - [Website](https://insideempire.github.io/CS61A-Website-Archive/hw/hw10/index.html) - [Solution](HW/hw10/hw10.sql)
+  - HW 10 - [Website](https://insideempire.github.io/CS61A-Website-Archive/hw/hw10/index.html) - [Solution](hw/hw10/hw10.sql)
 
 - Project
   - Project 1: The Game of Hog
