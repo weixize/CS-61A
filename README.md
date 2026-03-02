@@ -87,6 +87,6 @@
 
 ## 📄 致谢 & 说明 (Acknowledgments)
 
-- **参考模板**：本项目 README 结构与目录组织参考了 [学长的名字或 ID](学长的仓库链接)，感谢其提供的优秀示例。
+- **参考模板**：本项目 README 结构与目录组织参考了 [InsideEmpire](https://github.com/InsideEmpire)，感谢其提供的优秀示例。
 - **学术诚信**：仓库内的代码实现均为本人自学练习所得，仅用于个人学习记录与编程能力展示。
 - **课程来源**：所有课程资料、实验说明均归属 [UC Berkeley CS 61A](https://cs61a.org) 官方所有。
