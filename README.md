@@ -81,4 +81,4 @@
 
 - **[Online editor (support scheme, SQL and python)](https://code.cs61a.org)**
 
-- **[Python Tutor](https://web.archive.org/web/20201213124038/https://tutor.cs61a.org/)**
+- **[Python Tutor](https://pythontutor.com/visualize.html#mode=edit)**
