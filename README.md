@@ -52,9 +52,8 @@
 
 - Project
   - Project 1: The Game of Hog
-    - [Website](https://web.archive.org/web/20230314030325/https://cs61a.org/proj/hog/#problem-2-2-pt)
-    - [Solution](Projects/2023Spring/hog/hog.py)
-    - [2020 Fall Solution](https://github.com/PKUFlyingPig/CS61A/blob/master/projects/hog/hog.py)
+    - [Website](https://insideempire.github.io/CS61A-Website-Archive/proj/hog/index.html)
+    - [Solution](projects/hog/hog.py)
 
   - Project 2: Computer Aided Typing Software
     - Tips: If you cannot open the `cats_gui.py` web browser, you should change `DEFAULT_SERVER = "https://cats.cs61a.org"` to `DEFAULT_SERVER = None`, then run the command `python3 cats_gui.py` in your terminal. A new tab will open in your browser at `localhost:31415`.
